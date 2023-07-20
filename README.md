@@ -4,7 +4,7 @@ Hello, I'm Lupita Valle a fourth-year Computer Science student at the University
 - 🌍 I'm a native Houstonian
 - 🖥️ You can see my portfolio here https://lvalle-t.github.io/
 - ✉️ Contact me at lupitavalle713@gmail.com
-- :woman_technologist: Check out my [LinkedIn](www.linkedin.com/in/lupita-valle)
+- :woman_technologist: Check out my [LinkedIn](https://www.linkedin.com/in/lupita-valle/)
 
 <!--
 **lvalle-t/lvalle-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
